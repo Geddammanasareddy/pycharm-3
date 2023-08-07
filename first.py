@@ -1,0 +1,10 @@
+def area():
+    print("-"*50)
+    print("Area of Diagrams")
+    print("-"*50)
+    print("\t.Area of circle")
+    print("\t.Area of Trianglr")
+    print("\t.Area of Triangle")
+    print("\t.Area of square")
+    print("\t5.Exit")
+area()

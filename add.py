@@ -1,0 +1,10 @@
+def arthimetic():
+    print('_'*50)
+    print("Arthimetic operations")
+    print('_'*50)
+    print("\t.Addition")
+    print("\t.Substraction")
+    print("\t.Multiplication")
+    print("\t.Division")
+    print("\t.Modules")
+arthimetic()
